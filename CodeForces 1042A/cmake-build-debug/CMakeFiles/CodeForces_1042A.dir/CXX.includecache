@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vicen/OneDrive/Escritorio/Git/Competitive-Programming/CodeForces 1042A/main.cpp
+iostream
+-
+vector
+-
+bits/stdc++.h
+-
+numeric
+-
+

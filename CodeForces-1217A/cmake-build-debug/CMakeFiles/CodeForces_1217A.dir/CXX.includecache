@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vicen/OneDrive/Escritorio/Git/Competitive-Programming/CodeForces-1217A/main.cpp
+iostream
+-
+vector
+-
+
