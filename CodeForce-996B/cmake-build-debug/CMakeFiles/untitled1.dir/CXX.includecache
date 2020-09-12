@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vicen/OneDrive/Escritorio/Git/Competitive-Programming/untitled1/main.cpp
+iostream
+-
+vector
+-
+bits/stdc++.h
+-
+
