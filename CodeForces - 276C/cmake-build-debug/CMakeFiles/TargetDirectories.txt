@@ -1,0 +1,3 @@
+C:/Users/vicen/OneDrive/Escritorio/Git/Competitive-Programming/CodeForces - 276C/cmake-build-debug/CMakeFiles/CodeForces___276C.dir
+C:/Users/vicen/OneDrive/Escritorio/Git/Competitive-Programming/CodeForces - 276C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vicen/OneDrive/Escritorio/Git/Competitive-Programming/CodeForces - 276C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
